@@ -25,7 +25,7 @@ npm run dev
 
 ## 📷 Screenshots
 
-(Add screenshots here)
+(Adding the all essential screenshots very soon).
 
 ## 📄 License
 

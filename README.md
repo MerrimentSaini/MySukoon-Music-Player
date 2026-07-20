@@ -1,4 +1,4 @@
-# 🎵 MySukoon Music Player
+---------- 🎵 MySukoon Music Player ----------
 
 A modern music player built with React, Vite, Node.js, and the Jamendo API.
 
@@ -23,9 +23,25 @@ npm install
 
 npm run dev
 
-## 📷 Screenshots
+## 📸 Application Screenshots
 
-(Adding the all essential screenshots very soon).
+### 🏠 Home Page
+![Home Page](Screenshots/Home_Pg_Interface.png)
+
+### 🔐 Login Page
+![Login Page](Screenshots/Login_Pg_Interface.png)
+
+### 📂 Playlist Page
+![Playlist Page](Screenshots/Playlist_Pg_Interface.png)
+
+### 🎵 Queue Page
+![Queue Page](Screenshots/Queue_Pg_Interface.png)
+
+### 🔎 Search Page
+![Search Page](Screenshots/Search_Interface_Pg.png)
+
+### ▶️ Song Player
+![Song Player](Screenshots/Song_Player_Interface_Pg.png)
 
 ## 📄 License
 

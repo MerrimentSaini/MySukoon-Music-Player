@@ -29,7 +29,7 @@ npm run dev
 ![Home Page](Screenshots/Home_Pg_Interface.png)
 
 ### 🔐 Login Page
-![Login Page](Screenshots/Login_Pg_Interface.png)
+![Login Page](Screenshots/LogIn_Pg_Interface.png)
 
 ### 📂 Playlist Page
 ![Playlist Page](Screenshots/Playlist_Pg_Interface.png)

@@ -60,15 +60,18 @@ npm run dev
 
 MIT
 
-<===== Author =====>
+<===== 👨‍💻 Author =====>
 
-Avi Saini 
+**Avi Saini**
 
-BCA Student
+BCA Student || Web/App Development || Python Developer || Django Learner || Data Analyst Aspirant
 
-Aspirant: App/Web Development | Python Developer | Django Learner
-
-Github: 
+GitHub: https://github.com/MerrimentSaini
 
 LinkedIn: https://www.linkedin.com/in/avi-saini-15956b214
+
+---
+
+## ⭐ If you found this project useful, don't forget to Star this repository! Thanks..!
+
 

@@ -1,4 +1,17 @@
----------- 🎵 MySukoon Music Player ----------
+<========== 🎵 MySukoon Music Player ==========>
+
+<p align="center">
+  <a href="https://github.com/MerrimentSaini">
+    <img src="https://img.shields.io/badge/GitHub-MerrimentSaini-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/avi-saini-15956b214/">
+    <img src="https://img.shields.io/badge/LinkedIn-Avi Saini-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+![Project](https://img.shields.io/badge/Project-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
 
 A modern music player built with React, Vite, Node.js, and the Jamendo API.
 
@@ -47,5 +60,15 @@ npm run dev
 
 MIT
 
-Created By: Avi Saini | BCA Student
-Aspirant: App/Web Development | Python Developer | Django Learner 
+<===== Author =====>
+
+Avi Saini 
+
+BCA Student
+
+Aspirant: App/Web Development | Python Developer | Django Learner
+
+Github: 
+
+LinkedIn: https://www.linkedin.com/in/avi-saini-15956b214
+
